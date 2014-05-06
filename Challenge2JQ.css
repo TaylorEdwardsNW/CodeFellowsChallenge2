@@ -1,0 +1,22 @@
+html{
+	background: url("https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/55/CodeFellows.png") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: "Lucida Console";
+	text-align: center;
+
+}
+input{
+	border-radius: 10px;
+	border: 2px solid #000000;
+	font-family: "Lucida Console";
+
+}
+input:hover{
+	background-color: #49fb35;
+}
+span:hover{
+	background-color: #49fb35;
+}
